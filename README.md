@@ -35,3 +35,7 @@ person:
 $ yamllint person1.yml
 $
 ```
+Если yamllint не установлен, то
+```ShellSession
+$ sudo apt install yamllint
+```
