@@ -2,7 +2,7 @@
 
 ```ShellSession
 
-$ git clone https://github.com/Talkytitan5127/lab13
+$ git clone https://github.com/ToshUxanoff/lab13
 
 $ cmake -H. -B_builds
 
@@ -33,9 +33,4 @@ person:
   phone: +7(900) 000 12-34
 
 $ yamllint person1.yml
-$
-```
-Если yamllint не установлен, то
-```ShellSession
-$ sudo apt install yamllint
-```
+
